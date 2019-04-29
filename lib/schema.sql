@@ -21,4 +21,4 @@ motto TEXT,
 series_id INTEGER,
 author_id INTEGER);
 
-
+CREATE TABLE characters (id INTEGER PRIMARY KEY,
