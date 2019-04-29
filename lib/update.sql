@@ -1,1 +1,1 @@
-ALTER TABLE species 
+UPDATE species 
