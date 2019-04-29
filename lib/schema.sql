@@ -21,4 +21,5 @@ motto TEXT,
 series_id INTEGER,
 author_id INTEGER);
 
-CREATE TABLE  (id INTEGER PRIMARY KEY,
+CREATE TABLE character_books (id INTEGER PRIMARY KEY,
+
