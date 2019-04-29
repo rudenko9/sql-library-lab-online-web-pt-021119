@@ -1,1 +1,1 @@
-UPDATE species SET 
+UPDATE species SET species = "Martian" WHERE species = "cylon";
