@@ -14,4 +14,4 @@ title TEXT,
 year INTEGER,
 series_id INTEGER);
 
-
+CREATE TABLE  (id INTEGER PRIMARY KEY,
